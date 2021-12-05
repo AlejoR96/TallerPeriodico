@@ -76,3 +76,8 @@ nav ul li:hover {
   flex-direction: center;
 
 }
+
+.boxFather{
+  display: flex;
+  
+}
